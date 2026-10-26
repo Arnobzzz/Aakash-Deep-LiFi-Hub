@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this simulation framework, please cite our IEEE CSDE 2026 paper."
+title: "The 'Aakash Deep' Hub: A Sustainable and AI-Driven Li-Fi Framework"
+type: software
+authors:
+  - family-names: Arafat
+    given-names: Sayed Easin
+  - family-names: Nuren
+    given-names: Nusrat Jahan
+  - family-names: Onnesha
+    given-names: Saima Sultana
+  - family-names: Paul
+    given-names: Arnob
+  - family-names: Ridoy
+    given-names: Md Jahidul Islam
+  - family-names: Parvace
+    given-names: M.A.I. Rahath
+repository-code: "https://github.com/Arnobzzz/Aakash-Deep-LiFi-Hub"
+license: MIT
